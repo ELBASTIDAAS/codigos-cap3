@@ -1,3 +1,6 @@
+//@author   Bastidas Verdin Miguel Antonio
+//@Date     03/12/2021
+
 #include <iostream>
 
 int poly3 ( int a , int b , int c , int d , int x ){
