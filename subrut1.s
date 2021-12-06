@@ -1,3 +1,6 @@
+//@author   Bastidas Verdin Miguel Antonio
+//@Date     01/12/2021
+
 .data
 seed : .word 1
 const1 : .word 1103515245
