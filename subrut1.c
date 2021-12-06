@@ -1,3 +1,7 @@
+
+//@author   Bastidas Verdin Miguel Antonio
+//@Date     01/12/2021
+
 #include <iostream>
 
 int main (){
