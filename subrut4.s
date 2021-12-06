@@ -1,3 +1,6 @@
+//@author   Bastidas Verdin Miguel Antonio
+//@Date     03/12/2021
+
 fibo : cmp r0, # 2 @ if n<2
 	movlo r0, # 1 @ return 1
 	bxlo lr @ salgo de la funci 
