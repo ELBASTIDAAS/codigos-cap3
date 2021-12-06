@@ -1,3 +1,7 @@
+//@author   Bastidas Verdin Miguel Antonio
+//@Date     03/12/2021
+
+
 .data
 var1 : .asciz " %d\ n"
 seed : .word 1
